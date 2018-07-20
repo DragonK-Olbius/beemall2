@@ -1,0 +1,66 @@
+"We can't find products matching the selection.","Chúng tôi không tìm thấy sản phẩm nào khớp với lựa chọn của bạn.",theme,frontend/Solwin/freego
+"Add to Cart","Thêm vào giỏ hàng",theme,frontend/Solwin/freego
+"In stock","Còn hàng",theme,frontend/Solwin/freego
+"Out of stock","Hết hàng",theme,frontend/Solwin/freego
+"Add to Wish List","Thêm vào danh sách yêu thích",theme,frontend/Solwin/freego
+"Add to Compare","Thêm vào so sánh",theme,frontend/Solwin/freego
+"Learn More","Xem thêm",theme,frontend/Solwin/freego
+"Related Products","Sản phẩm liên quan",theme,frontend/Solwin/freego
+"We found other products you might like!","We found other products you might like!",theme,frontend/Solwin/freego
+"More Choices:","More Choices:",theme,frontend/Solwin/freego
+"New Products","Sản phẩm mới",theme,frontend/Solwin/freego
+"Our Brands","Thương hiệu của chúng tôi",theme,frontend/Solwin/freego
+"Check items to add to the cart or","Check items to add to the cart or",theme,frontend/Solwin/freego
+"select all","select all",theme,frontend/Solwin/freego
+"Email To A Friend","Gửi email cho bạn bè",theme,frontend/Solwin/freego
+Availability,Availability,theme,frontend/Solwin/freego
+"Sign Up for Our Newsletter:","Sign Up for Our Newsletter:",theme,frontend/Solwin/freego
+"Enter your email address","Nhập địa chỉ email của bạn",theme,frontend/Solwin/freego
+Subscribe,Đăng kí,theme,frontend/Solwin/freego
+"Recently Viewed","Đã xem gần đây",theme,frontend/Solwin/freego
+"Recently Compared","Đã so sánh gần đây",theme,frontend/Solwin/freego
+Information,Về beemall,theme,frontend/Solwin/freego
+"Contact Information","Thông tin liên lạc",theme,frontend/Solwin/freego
+"Last Added Items","Những sản phẩm đã thêm",theme,frontend/Solwin/freego
+"Remove This Item","Loại bỏ sản phẩm này",theme,frontend/Solwin/freego
+"Go to Wish List","Đi tới danh sách yêu thích",theme,frontend/Solwin/freego
+"You have no items in your wish list.","Không có sản phẩm nào trong danh sách yêu thích của bạn.",theme,frontend/Solwin/freego
+"%name,","%name,",theme,frontend/Solwin/freego
+"Welcome to %store_name.","Chào mừng bạn đến với %store_name.",theme,frontend/Solwin/freego
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",theme,frontend/Solwin/freego
+Email:,Email:,theme,frontend/Solwin/freego
+Password:,Mật khẩu:,theme,frontend/Solwin/freego
+"Password you set when creating account","Mật khẩu bạn thiết lập khi tạo tài khoản",theme,frontend/Solwin/freego
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Bạn quên mật khẩu? Click <a href=""%reset_url"">vào đây</a> để đặt lại mật khẩu.",theme,frontend/Solwin/freego
+"When you sign in to your account, you will be able to:","Khi bạn đăng nhập vào tài khoản của bạn, bạn sẽ có thể:",theme,frontend/Solwin/freego
+"Quick Checkout","Thanh toán nhanh",theme,frontend/Solwin/freego
+"Proceed through checkout faster","Xử lý thanh toán nhanh hơn",theme,frontend/Solwin/freego
+"Order Status","Trạng thái đơn hàng",theme,frontend/Solwin/freego
+"Check the status of orders","Kiểm tra trạng thái đơn hàng",theme,frontend/Solwin/freego
+"Manage Addresses","Quản lý liên lạc",theme,frontend/Solwin/freego
+"Store alternative addresses","Địa chỉ thay thế của cửa hàng",theme,frontend/Solwin/freego
+"For shipping to multiple family members and friends","Vận chuyển đến bạn bè và gia đình",theme,frontend/Solwin/freego
+"Order History","Lịch sử đơn hàng",theme,frontend/Solwin/freego
+"View past orders","Xem các đơn hàng trong quá khứ",theme,frontend/Solwin/freego
+"Account Dashboard","Bảng tổng quan tài khoản",theme,frontend/Solwin/freego
+"Account Information","Thông tin tài khoản",theme,frontend/Solwin/freego
+"Address Book","Sổ liên lạc",theme,frontend/Solwin/freego
+"Default welcome msg!","Chào mừng bạn đến với beemall!",module,Magento_Theme
+"Review & Payments","Xác nhận và thanh toán",module,Magento_Checkout
+"Order Summary","Chi tiết đơn hàng",module,Magento_Checkout
+"State/Province","Tỉnh thành",module,Magento_Customer
+"Products in Carts","Sản phẩm trong giỏ hàng",module,Magento_Reports
+"Check items to add to the cart or","Tích vào sản phẩm để thêm vào giỏ hàng hoặc",module,Magento_Catalog
+"Copyright © 2013-present Magento, Inc. All rights reserved.","Copyright © 2018-present Beemall, Inc. All rights reserved.",module,Magento_Theme
+"You have no items in your shopping cart.","Bạn không có sản phẩm nào trong giỏ hàng.",module,Magento_Checkout
+"Your order number is: %1.","Mã đơn hàng của bạn là: %1.",module,Magento_InstantPurchase
+"This email address is already subscribed.","Email này đã được đăng kí.",module,Magento_Newsletter
+"You aren't subscribed to our newsletter.","Bạn vẫn chưa đăng kí theo dõi tin tức từ chúng tối.",module,Magento_Customer
+"Stored Payment Methods","Phương thức thanh toán đang lưu",module,Magento_Vault
+"You have no stored payment methods.","Bạn không có phương thức thanh toán nào đang lưu.",module,Magento_Vault
+"Be the first to review this product","Hãy là người đầu tiên đánh giá sản phẩm này",module,Magento_Review
+"Cart Subtotal","Tổng giá trị giỏ hàng",module,Magento_Checkout
+"%d Item in Cart","%d Sản phẩm trong giỏ hàng",module,Magento_Checkout
+"Check items to add to the cart or","Đánh dấu từng sản phẩm để thêm vào giỏ hàng hoặc",module,Magento_Catalog
+"Select all","chọn tất cả",module,Magento_MultipleWishlist
+"Cancel","Hủy bỏ",module,Magento_Checkout
