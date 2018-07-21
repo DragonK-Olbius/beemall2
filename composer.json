@@ -72,7 +72,8 @@
         "ext-soap": "*",
         "ramsey/uuid": "~3.7.3",
         "mageplaza/magento-2-vietnamese-language-pack": "dev-master",
-        "algolia/algoliasearch-magento-2": "^1.7"
+        "algolia/algoliasearch-magento-2": "^1.7",
+        "mageplaza/magento-2-social-login": "^2.6"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.2.0",
